@@ -1,24 +1,10 @@
-# README
+# Recipe App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Introduction
+This app is a result of following a tutorial from digitalocean.com. Credits to the
+author [Chuks Opia](https://www.digitalocean.com/community/users/troy34) and editor [Timothy Nolan](digitalocean.com/community/users/tnolan).
 
-Things you may want to cover:
+## Outcome
+This tutorial teaches the interaction between React and Rails, as well as basic `CRUD` (`U` is left as exercise for the reader as per `comment_83195`.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[5/1/2020] There seems to be a bug, when viewing all recipes, clicking back shows an empty page. Following `comment_91406`, one solution was to use `turbolink`. The fix is also applied (can be found in `app/javascript/packs/Index.jsx`)
