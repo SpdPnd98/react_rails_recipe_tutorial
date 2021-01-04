@@ -1,7 +1,7 @@
 # Recipe App
 
 ## Introduction
-This app is a result of following a tutorial from digitalocean.com. Credits to the
+This app is a result of following a tutorial from [digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend). Credits to the
 author [Chuks Opia](https://www.digitalocean.com/community/users/troy34) and editor [Timothy Nolan](digitalocean.com/community/users/tnolan).
 
 ## Outcome
